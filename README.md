@@ -8,7 +8,7 @@ Lightweight Lua config loader.
 
 ## Project Structure
 
-- `src/` — Source obfuscated code.
+- `obf/` — Obfuscated code.
   - `init.lua` — Entry point.
   - `parser.lua` — Configuration parsing logic.
   - `utils.lua` — Helper functions.
